@@ -1,0 +1,4 @@
+2018-09-03 23:18:37,776 - DCNN.py:244 - train_detail - Epoch 1 mean train loss is 1.494873e+05, time is 104.835897
+2018-09-03 23:18:37,792 - DCNN.py:245 - train_detail - Epoch 1 mean test loss is 1.177308e+05.
+2018-09-03 23:20:05,248 - DCNN.py:244 - train_detail - Epoch 2 mean train loss is 9.300211e+04, time is 87.446141
+2018-09-03 23:20:05,248 - DCNN.py:245 - train_detail - Epoch 2 mean test loss is 6.228804e+04.
